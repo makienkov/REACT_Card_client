@@ -12,16 +12,16 @@ This command will display the installed version. Check if npm (Node Package Mana
 This command will display the installed version.
 npm comes bundled with Node.js, so if Node.js is installed, npm should also be available.
 
-If you need to Download Node.js:
-Visit the official Node.js website - https://nodejs.org/. 
-Click on the "LTS" button to download the recommended version for most users. 
-Run the downloaded installer and follow the installation instructions.
+If you need to Download Node.js:  
+Visit the official Node.js website - https://nodejs.org/.   
+Click on the "LTS" button to download the recommended version for most users.   
+Run the downloaded installer and follow the installation instructions.  
 
-You can also use the .env file for:
-REACT_APP_API_URL = "" -> manually configure address for your own server
-REACT_APP_TOKEN = "" -> manually configure name of the token stored on local storage
+You can also use the .env file for:  
+REACT_APP_API_URL = "" -> manually configure address for your own server  
+REACT_APP_TOKEN = "" -> manually configure name of the token stored on local storage  
 
-Alternative method:
-- Extract Cards_Client.zip.XXX
-- Open the Windows Terminal and navigate to the directory containing the files using the 'cd' command.
-- Run the following command to start the web client: "npm start"
+Alternative method:  
+- Extract Cards_Client.zip.XXX   
+- Open the Windows Terminal and navigate to the directory containing the files using the 'cd' command.  
+- Run the following command to start the web client: "npm start"   
